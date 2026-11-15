@@ -1,3 +1,0 @@
-# AI-use disclosure
-
-Generative AI assisted with project organization, interface code, editing and draft communication materials. It did not conduct the student's experiments or generate study measurements. The supplied paper and stated values were treated as the source of the student results; NASA POWER environmental data were retrieved through the documented API. AI-assisted research notes were checked against linked source pages where available. Some citations and data coverage remain marked UNVERIFIED in `RESEARCH_NOTES.md` and `DATA_GAPS.md`. The author and teacher should review all text, code, claims, source permissions and this disclosure before submission, and update it to describe the actual tools used.
