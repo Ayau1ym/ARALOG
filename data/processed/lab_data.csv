@@ -1,0 +1,4 @@
+sample,lat,lon,Fe aqueous extract mg/dm3,Cu aqueous extract mg/dm3,Mn aqueous extract mg/dm3,source
+N1 Aralkum Central,45.398333,59.795556,3.7,1.1,0.07,supplied paper
+N2 Aralkum Coastal,45.633333,60.250021,2.5,0.8,0.1,supplied paper
+N3 Kyzylorda control,44.828889,65.519722,0.6,0.4,0,supplied paper
